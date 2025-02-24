@@ -1,0 +1,16 @@
+Detection Results for street.jpeg
+Total objects detected: 1
+--------------------------------------------------
+
+Detection #1:
+Class ID: 6
+Class Name: bus
+Confidence: 0.51
+Bounding Box:
+    Left:   147.38
+    Top:    88.43
+    Right:  202.35
+    Bottom: 127.97
+Center: X: 174.87, Y: 108.20
+Area: 2173.36
+
